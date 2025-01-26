@@ -1,2 +1,2 @@
 # MART-220---Collaboration
-This is how we share, Creative Coding 2 (MART220) course.
+Updating for MART 220 - Spring 2025 HW 2
